@@ -44,7 +44,7 @@ public class ChatClient {
                 		System.out.println("Port param must be a number");
                 		System.exit(-1);
                 	}
-            	}else{
+            	}else if(hostAndPort.length != 0){
             		System.out.println("Wrong # of arguments");
             		System.exit(-1);
             	}
