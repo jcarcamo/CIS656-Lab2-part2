@@ -1,3 +1,3 @@
-grant codeBase "file:/Users/jcarcamo/Documents/GVSU/lab2-part2/src/" {
+grant codeBase "file:/Users/jcarcamo/Documents/GVSU/lab2-part2/bin/" {
     permission java.security.AllPermission;
 };
